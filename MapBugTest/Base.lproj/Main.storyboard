@@ -19,9 +19,6 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" id="hq7-wZ-OAH"/>
-                    <connections>
-                        <outlet property="mapView" destination="kh9-bI-dsS" id="Gno-Ot-2Dh"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>

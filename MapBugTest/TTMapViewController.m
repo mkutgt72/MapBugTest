@@ -11,8 +11,6 @@
 
 @interface TTMapViewController ()
 
-@property (strong, nonatomic) IBOutlet RMMapView *mapView;
-
 @end
 
 @implementation TTMapViewController
